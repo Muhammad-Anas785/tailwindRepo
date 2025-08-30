@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UIvueProject
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,6 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# tailwindRepo
+>>>>>>> 9ca98b227d6d08059604123a27c93827ea5878b0
